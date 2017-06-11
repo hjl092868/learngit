@@ -1,1 +1,1 @@
-Git is a distributed version control system on 2017.6.9.Git is free software distributed under the GPL.
+Git is a distributed version control system on 2017.6.9.Git is free software distributed under the GPL.stupid boss.
